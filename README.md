@@ -124,3 +124,6 @@ After a successful test run, you can find the generated artifacts in the followi
   - **Flight Data Logs**: `Logs/` (in both JSON and HTML formats)
 
 -----
+## Outputs
+![One Way](https://github.com/KartvyaBadgujar/Automate-Flight-Search-for-Air-India/blob/main/screenshots/final_oneway.png)
+![RoundTrip](https://github.com/KartvyaBadgujar/Automate-Flight-Search-for-Air-India/blob/main/screenshots/final_roundtrip.png)
